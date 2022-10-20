@@ -1,2 +1,2 @@
-# README.md
+# first-branch
 Resolving merge conflicts practice
